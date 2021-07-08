@@ -1,6 +1,7 @@
 # Hi, This is Leko!
 
 [![GitHub lekoOwO](https://img.shields.io/github/followers/lekoOwO?label=follow&style=social)](https://github.com/lekoOwO)
+![](https://komarev.com/ghpvc/?username=lekoOwO&color=5EBFFF)
 
 <p>
     <img alt="C++" src="https://img.shields.io/badge/-C++-00599c?logo=c%2b%2b&logoColor=fff&style=for-the-badge">
