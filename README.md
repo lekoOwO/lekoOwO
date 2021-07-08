@@ -30,6 +30,6 @@
 
 [Personal Page](https://leko.moe)
 
-[Email](mailto:leko@leko.moe) (PGP: 5D69CF0A)
+[Email](mailto:leko@leko.moe) (PGP: [5D69CF0A](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x807bcb295d69cf0a))
 
 Please don't hesitate to message me :)
