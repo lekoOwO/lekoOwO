@@ -24,7 +24,7 @@
 
 <img src="https://github-readme-stats.lekoowo.vercel.app/api?username=lekoOwO&show_icons=true&theme=graywhite&count_private=true&cache_seconds=1800" />
 
-<img src="https://github-readme-stats.lekoowo.vercel.app/api/top-langs/?username=lekoOwO&theme=graywhite&count_private=true&langs_count=15&layout=compact&cache_seconds=1800" />
+<img src="https://github-readme-stats.lekoowo.vercel.app/api/top-langs/?username=lekoOwO&theme=graywhite&count_private=true&langs_count=20&layout=compact&cache_seconds=1800" />
 
 <h2><img width="28" height="28" valign="text-bottom" alt="speech balloon" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png"> Contact</h2>
 
