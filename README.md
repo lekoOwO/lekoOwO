@@ -5,19 +5,28 @@
 
 <p>
     <img alt="C++" src="https://img.shields.io/badge/-C++-00599c?logo=c%2b%2b&logoColor=fff&style=for-the-badge">
-    <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-336633?logo=Node.js&logoColor=fff&style=for-the-badge">
-    <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f7df1e?logo=javascript&logoColor=fff&style=for-the-badge">
-    <img alt="Python" src="https://img.shields.io/badge/-Python-3776ab?logo=python&logoColor=fff&style=for-the-badge">
-    <img alt="Bash" src="https://img.shields.io/badge/-Bash-4eaa25?logo=gnu-bash&logoColor=fff&style=for-the-badge">
+    <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569b?logo=flutter&logoColor=fff&style=for-the-badge">
     <img alt="Go" src="https://img.shields.io/badge/-Go-00add8?logo=go&logoColor=fff&style=for-the-badge">
+    <img alt="Java" src="https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=fff&style=for-the-badge">
+    <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-336633?logo=Node.js&logoColor=fff&style=for-the-badge">
+    <img alt="Python" src="https://img.shields.io/badge/-Python-3776ab?logo=python&logoColor=fff&style=for-the-badge">
+    <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=fff&style=for-the-badge">
     <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479a1?logo=mysql&logoColor=fff&style=for-the-badge">
     
 </p>
+
 <p>
-  <img alt="Linux" src="https://img.shields.io/badge/-GNU%2FLinux-fcc624?logo=linux&logoColor=fff&style=for-the-badge">
-  <img alt="git" src="https://img.shields.io/badge/-git-f05032?logo=git&logoColor=fff&style=for-the-badge">
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-e34f26?logo=html5&logoColor=fff&style=for-the-badge">
+  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f7df1e?logo=javascript&logoColor=fff&style=for-the-badge">
+  <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=fff&style=for-the-badge">
+</p>
+
+<p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ed?logo=docker&logoColor=fff&style=for-the-badge">
+  <img alt="git" src="https://img.shields.io/badge/-git-f05032?logo=git&logoColor=fff&style=for-the-badge">
+  <img alt="Linux" src="https://img.shields.io/badge/-GNU%2FLinux-fcc624?logo=linux&logoColor=fff&style=for-the-badge">
+  <img alt="Shell Script" src="https://img.shields.io/badge/-Shell%20Script-4eaa25?logo=gnu-bash&logoColor=fff&style=for-the-badge">
+  <img alt="Proxmox VE" src="https://img.shields.io/badge/-Proxmox%20VE-e57000?logo=proxmox&logoColor=fff&style=for-the-badge">
 </p>
 
 ## Statistics
