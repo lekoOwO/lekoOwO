@@ -39,6 +39,6 @@
 
 [Personal Page](https://leko.moe)
 
-[Email](mailto:leko@leko.moe) (PGP: [5D69CF0A](https://keys.openpgp.org/vks/v1/by-fingerprint/3111D4E596C4102EB443DBD6807BCB295D69CF0A))
+[Email](mailto:leko@leko.moe) (PGP: [FFFF00001069](https://keys.openpgp.org/vks/v1/by-fingerprint/31BF911EFC9CC7CE4095306C4DB4FFFF00001069))
 
 Please don't hesitate to message me :)
